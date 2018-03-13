@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shreya Saraf
+title: Travel Destinations
 email: shreya.saraf@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Writing your own code might look a bit difficult, but if you follow the steps logically, it is really not that hard. For a better understanding of the software, I recommend that you take a look at the Processing website, the link to which is given above.
+ 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

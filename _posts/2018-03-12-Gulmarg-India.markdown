@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Points and Lines"
+title:  "Gulmarg-India"
 date:   2018-03-12 10:21:40 +0530
 categories: jekyll update
 comments: true
