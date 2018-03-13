@@ -23,6 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: shreya.saraf09
 github_username:  SarafShreya
 twitter_username: ShreyaSaraf09
+google_analytics: UA-115599812-1
 
 # Build settings
 markdown: kramdown
