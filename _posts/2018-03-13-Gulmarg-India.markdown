@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Gulmarg-India"
-date:   2018-03-12 10:21:40 +0530
+title:  "Gulmarg- India"
+date:   2018-03-13 10:21:40 +0530
 categories: jekyll update
 comments: true
 ---

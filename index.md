@@ -4,7 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-"I don't know where I am going but I am on my way." -Carl Sagan
+"I don't know where I am going but I am on my way."
+ -Carl Sagan
 
 
 
