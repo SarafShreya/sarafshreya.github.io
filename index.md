@@ -5,7 +5,7 @@
 layout: home
 ---
 "I don't know where I am going but I am on my way." -Carl Sagan
- 
 
-(Check out the [Processing Website](http://processing.org) to get a better understanding on the software.)	
+
+
 
