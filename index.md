@@ -4,7 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Hey there! Welcome to my blog. Here I will be writing about how you can get through Processing easily. With a bunch of easy commands, you will (hopefully) soon be able to create your own animations. So, grab a coffee and let's get this going!
+"I don't know where I am going but I am on my way." -Carl Sagan
+ 
 
 (Check out the [Processing Website](http://processing.org) to get a better understanding on the software.)	
 
