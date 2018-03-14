@@ -18,8 +18,8 @@ email: shreya.saraf@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "travel blog" # the subpath of your site, e.g. /blog
+url: "saraf.shreya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: shreya.saraf09
 github_username:  SarafShreya
 twitter_username: ShreyaSaraf09
