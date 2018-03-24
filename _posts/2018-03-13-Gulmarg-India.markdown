@@ -27,6 +27,7 @@ Gulmarg is an excellent destination to visit at any time of the year. It is a pl
 
 
 
+
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
